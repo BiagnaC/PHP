@@ -1,0 +1,8 @@
+Contacto: biagna, Estudiar, 125498367, C/planeta jupiter, gracias
+Contacto: pepe, limpieza, 987654321, oporto, 
+Contacto: antonio, no, no, no recuerdo, 
+Contacto: maria, limpieza, 987654321, C/planeta jupiter, gracias
+Contacto: jose, profesor, 112112112, salesianos, monitor
+Contacto: jose, no, 987654321, salesianos, 
+Contacto: , , , , 
+Contacto: biagna, no, 987654321, salesianos, 

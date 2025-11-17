@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio1_biagna</title>
+    <style>
+        .form1{
+            border:1px solid #b0b0ff;
+            background-color: #f0f0ff;
+            padding: 15px;
+            width: 650px;
+        }
+        .resultado{
+            margin-top: 20px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Formulario</h1>
+    <div class="form1">
+        <p>Escribe el alto y ancho (0 &lt; números &le; 100) y mostraré un rectángulo de estrellas de ese tamaño.</p>
+        <form action="Ejercicio1.php" method="get">
+            <p>Ancho:<input type="number" name="ancho"></p>
+            <p>Alto:<input type="number" name="alto"></p>
+            <input type="submit" value="Dibujar">
+            <input type="reset" value="Borrar"> 
+        </form>
+    </div>
+</body> 
+</html>

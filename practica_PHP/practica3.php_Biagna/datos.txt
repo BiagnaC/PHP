@@ -1,0 +1,3 @@
+El alumno Biagna, con teléfono 123456, está matriculado en Secundaria.
+El alumno Biagna , con teléfono 123412987, está matriculado en Ciclo Superior.
+El alumno Biagna , con teléfono 123564987, no está matriculado en Ciclo Medio.
